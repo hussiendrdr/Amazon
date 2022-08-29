@@ -1,0 +1,35 @@
+.cheackoutproduct{
+display: flex;
+margin-bottom: 20px;
+
+}
+.cheackoutcroduct_info{
+
+	padding-left: 20px;
+
+}
+.cheackoutcroduct_info>button{
+
+background:#f0c14b;
+border:1px solid;
+margin-top:10px;
+border-color:#a88734;
+color:#111;
+
+}
+
+.cheackoutproduct_image{
+object-fit:contain;
+width:180px ;
+height:180px ;
+
+
+}
+.cheackoutproduct_rating{
+	display: flex;
+}
+.cheackoutproduct_title{
+font-size: 17px;
+font-weight: 800;
+
+}
